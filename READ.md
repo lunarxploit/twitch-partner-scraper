@@ -47,9 +47,7 @@ Run the scraper using the following command:
 
 
 The scraper will start fetching partner data from Twitch using GraphQL and store the results in a suitable format.
-
-It should now look like this:
-![Twitch Scraper](https://github.com/lunarxploit/twitch-partner-scraper/blob/main/preview.png)
+It should now look like this ![Twitch Scraper](https://github.com/lunarxploit/twitch-partner-scraper/blob/main/preview.png)
 
 
 ### Customization
