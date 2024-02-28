@@ -1,5 +1,7 @@
 # Twitch Partner Scraper
 
+![Twitch Scraper](https://github.com/lunarxploit/twitch-partner-scraper/blob/main/preview.png)
+
 ## Overview
 
 The Twitch Partner Scraper is a robust tool crafted in Go programming language to scrape every partner that exists on Twitch.tv using GraphQL. Engineered for exceptional speed and efficiency, this scraper operates without rate limits, ensuring swift retrieval of partner data from Twitch.
@@ -47,8 +49,6 @@ Run the scraper using the following command:
 
 
 The scraper will start fetching partner data from Twitch using GraphQL and store the results in a suitable format.
-It should now look like this ![Twitch Scraper](https://github.com/lunarxploit/twitch-partner-scraper/blob/main/preview.png)
-
 
 ### Customization
 
